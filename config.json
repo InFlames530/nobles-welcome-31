@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["852619958445932585"],
+        "ACTIVITY_TEXT": "Nobles Welcome!",
+        "GUILD_ID": "838292140122701845",
+        "VOICE_CHANNEL": "838292140895240220",
+        "MIN_STAFF_ROLE": "853352748057100319"
+    },
+    "FILES": {
+        "WELCOME": "default_files/welcome.mp3",
+        "STAFF": "default_files/welcome.mp3"
+    },
+    "TOKEN": "ODU1ODkxMjQxNTU2Mzc3NjIw.YM5E1Q.C6hmRjShhjl6HUr_ywZOTBL_l74"
+}
